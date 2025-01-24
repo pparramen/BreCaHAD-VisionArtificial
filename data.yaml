@@ -1,0 +1,13 @@
+
+train: /content/train/images
+val: /content/val/images
+test: /content/test/images
+
+nc: 5 
+
+names:
+- cells-A6sP
+- lumen
+- nolumen
+- notumor
+- tumor
